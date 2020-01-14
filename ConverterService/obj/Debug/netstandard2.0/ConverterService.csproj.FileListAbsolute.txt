@@ -1,0 +1,16 @@
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.csprojAssemblyReference.cache
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfoInputs.cache
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfo.cs
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.deps.json
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.dll
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.pdb
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.dll
+C:\Users\lillo\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.pdb
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.csprojAssemblyReference.cache
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfoInputs.cache
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfo.cs
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.dll
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.pdb
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.deps.json
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.dll
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.pdb

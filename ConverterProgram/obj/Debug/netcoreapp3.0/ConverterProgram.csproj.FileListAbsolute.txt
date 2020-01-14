@@ -1,0 +1,14 @@
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.csprojAssemblyReference.cache
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.AssemblyInfoInputs.cache
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.AssemblyInfo.cs
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.exe
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.deps.json
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.runtimeconfig.json
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.runtimeconfig.dev.json
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.dll
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.pdb
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterService.dll
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterService.pdb
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.csproj.CopyComplete
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.dll
+J:\UniversitetsGrejer\GIK299\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.pdb
